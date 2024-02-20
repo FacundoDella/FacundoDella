@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/facundo dellanegra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundo dellanegra" height="30" width="40" /></a>
-<a href="https://fb.com/facundo dellanegra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facundo dellanegra" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011098093015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facundo dellanegra" height="30" width="40" /></a>
 <a href="https://instagram.com/facu_dseba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="facu_dseba" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/devfacu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devfacu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC26UHhbiSGmOH0TRtd4uI0g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devfacu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
