@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **facundodiciembre25@gmail.com**
 
+- 📞 My phone number 2920289147
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/facundo dellanegra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundo dellanegra" height="30" width="40" /></a>
