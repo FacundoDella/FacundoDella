@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **facundodiciembre25@gmail.com**
 
-- 📞 My phone number 2920289147
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
