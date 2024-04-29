@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Contact List App](https://github.com/FacundoDella/Contact-List-App.git)
 
-- 🌱 I’m currently learning **Angular, Tailwind**
+- 🌱 I’m currently learning **Laravel, Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FacundoDella?tab=repositories](https://github.com/FacundoDella?tab=repositories)
 
