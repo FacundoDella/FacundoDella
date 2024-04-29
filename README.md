@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Facundo Dellanegra</h1>
-<h3 align="center">A passionate developer from Argentina, i'm a full stack developer, but I specialize in angular frontend.</h3>
+<h3 align="center">A passionate developer from Argentina, i'm a full stack developer, but I specialize in Laravel Backend.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=facundodella&label=Profile%20views&color=0e75b6&style=flat" alt="facundodella" /> </p>
 
