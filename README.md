@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=facundodella&label=Profile%20views&color=0e75b6&style=flat" alt="facundodella" /> </p>
 
-- 🔭 I’m currently working on [Contact List App](https://github.com/FacundoDella/Contact-List-App.git)
+- 🔭 I’m currently working on [Wish Amoblamientos Project](https://github.com/FacundoDella/Wish-Amoblamientos)
 
 - 🌱 I’m currently learning **Laravel, Tailwind**
 
