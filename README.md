@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/FacundoDella?tab=repositories](https://github.com/FacundoDella?tab=repositories)
 
-- 💬 Ask me about **PHP, SQL, Angular, JavaScript, TypeScript, CSS,Html**
+- 💬 Ask me about ** Laravel,PHP, SQL, Angular, JavaScript, TypeScript, CSS,Html**
 
 - 📫 How to reach me **facundodiciembre25@gmail.com**
 
